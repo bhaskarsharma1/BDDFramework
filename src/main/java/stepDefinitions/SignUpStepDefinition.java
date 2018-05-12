@@ -27,6 +27,7 @@ public class SignUpStepDefinition {
 		String title = driver.getTitle();
 		System.out.println(title);
 		Assert.assertEquals("Free CRM software in the cloud powers sales and customer service", title);
+		//this is to check the page title
 	}
 
 	@Then("^User should click on Sing up button$")
