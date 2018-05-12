@@ -87,8 +87,7 @@
             <artifactId>BDDFramework</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <configuration>
-                <source>1.7</source>
-                <target>1.7</target>
+                <overwrite>true</overwrite>
             </configuration>
         </plugin>
     </plugins>
