@@ -87,8 +87,8 @@
             <artifactId>BDDFramework</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <configuration>
-                <source>1.8</source>
-                <target>1.8</target>
+                <source>1.7</source>
+                <target>1.7</target>
             </configuration>
         </plugin>
     </plugins>
