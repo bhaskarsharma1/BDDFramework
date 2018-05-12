@@ -80,4 +80,13 @@
         <version>3.12.0</version>
     </dependency> 
   	</dependencies>
+  	<build>
+    <plugins>
+        <plugin>
+            <groupId>BDDFramework</groupId>
+            <artifactId>BDDFramework</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </plugin>
+    </plugins>
+</build>
 </project>
